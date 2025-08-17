@@ -1,3 +1,0 @@
-doc_id,customer_id,doc_type,verified,expiry_date
-1,1,ID_PROOF,Yes,2026-12-31
-2,2,ADDRESS_PROOF,No,2024-06-30
