@@ -1,0 +1,2 @@
+alert_id,customer_id,rule,txn_id,priority
+1,2,High-Risk Geography,2,High
