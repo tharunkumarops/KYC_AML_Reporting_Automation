@@ -64,15 +64,3 @@ KYC_AML_Reporting_Automation/
 4. Review case study in `/docs`  
 
 ---
-
-## 📸 Sample Dashboard
-
-![KYC Status Dashboard](dashboards/kyc_status.png)
-
----
-
-## 📌 Portfolio
-- 📄 [Case Study PDF](docs/KYC_AML_Case_Study_OnePager.pdf)  
-- 📑 [Portfolio Deck (PPTX)](docs/KYC_AML_Automation_PortfolioDeck.pptx)
-
----
